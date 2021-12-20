@@ -1,1 +1,1 @@
-print("main2.py")
+print("kolejne zmiany do akceptacji")
